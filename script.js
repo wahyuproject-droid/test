@@ -4,7 +4,7 @@
 */
 const CONFIG = {
   inviteUrl: "https://discord.com/oauth2/authorize?client_id=1516435319359148192&permissions=8&integration_type=0&scope=bot+applications.commands",
-  republicUrl: "https://discord.gg/E8BJcqSha",
+  republicUrl: "https://discord.gg/republikmidnight",
   discordUrl: "https://discord.com/users/1126408813042466877",
   instagramUrl: "https://www.instagram.com/itzzz_w4hy?igsh=c2Jnb2RlemF5d3I3",
   popupDelay: 650,
